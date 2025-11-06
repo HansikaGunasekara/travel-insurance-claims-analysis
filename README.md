@@ -1,4 +1,4 @@
-# travel-insurance-claims-analysis
+# Travel Insurance Claims Analysis
 
 ## 📝 Description
 
