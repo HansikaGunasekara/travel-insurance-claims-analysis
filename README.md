@@ -59,6 +59,12 @@ With over 63K records, the analysis uncovers imbalances in claim acceptance, hig
 ### ⚠️Data Quality
 
 #### Did you notice anything unusual in the data (missing values, unexpected patterns)?
+- Yes, we can't rely on the age & gender demographics of the datasets
+- ⚠️The age ranges from 0 to 118 which is unrealistic
+- ⚠️There are 984 entities aged 118
+- ⚠️Out of 63K+ entities <20K have gender information
+- ⚠️Also there are negative values in the net sales & the duration columns
+- ⚠️Commission values are also unreliable as >35K are 0.
 
 
 #### How might this affect business decisions🧠?
